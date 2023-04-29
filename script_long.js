@@ -29,7 +29,7 @@ const questions = [
     },
     { 
       question: "What is the difference between real and nominal definitions?", 
-      answer: "Defining is either giving the meaning of words or other linguistic things, which is called “nominal definition” or clarifying a given meaning, which is a proposition or property or relation, by showing it to be a compound of other propositions or properties or relations, which is called “real definition”." 
+      answer: "They are different ways of defining. Nominal definition gives the meaning of words, it refers to the way in which we use language to refer to things, and real definition refers to a definition that describes the essence or true nature of something. Nominal definitions can be of two types or may try to fulfill two functions: extensional or cognitive (intensional)." 
     },
     { 
       question: "What is the definiens and the definiendum?", 
